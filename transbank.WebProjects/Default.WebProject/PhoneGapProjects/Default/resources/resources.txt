@@ -5,7 +5,7 @@
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
 	"_initialUxComponent": "login",
-	"_componentLastUpdated": "05/12/2017 10:40:48 57 am",
+	"_componentLastUpdated": "05/12/2017 01:57:36 67 pm",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/transbank/",
 	"_additionalFiles": "",
 	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
