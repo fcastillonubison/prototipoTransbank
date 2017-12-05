@@ -1,0 +1,38 @@
+{
+	"_id": "2916250",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Transbank\\transbank.WebProjects\\Default.WebProject\\img\\favicon.png",
+	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
+	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
+	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
+	"_initialUxComponent": "login",
+	"_componentLastUpdated": "05/12/2017 10:29:30 36 am",
+	"_ajaxUrl": "http://nubisonlab.cl:1580/transbank/",
+	"_additionalFiles": "",
+	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
+	"_pw": "nEUmwR92tRwv6SDFKfexhg==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"_phonegapBuilderVersion": "1",
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"genAppZipFile": false,
+	"zipFileLocation": "",
+	"buildTarget": "Phonegap Build",
+	"cliProjectFolder": "",
+	"_androidBuildFlag": true,
+	"_iOSBuildFlag": false,
+	"_windowsBuildFlag": false,
+	"launchAppManager": true,
+	"_sqlitedbdefined": false
+}
