@@ -54,7 +54,11 @@
 <action="allow">
 <groups="">
 >
-<[15]<page="menu.a5wcmp">
+<[15]<page="main.a5wcmp">
+<action="allow">
+<groups="">
+>
+<[16]<page="shell.a5wcmp">
 <action="allow">
 <groups="">
 >
