@@ -270,7 +270,7 @@
 <securityStoreType="">
 <AlphaDAOConnectionStrings=<<%str%
 <arrVars<[1]<name="DB_Transbank">
-<value="Encrypted:xI3OKMADTTuPlPyxbyQ2IQTJ4jwFeFXEjdTQeonsjWpr1l701h46aT4bot32gfBK5MvmuiLiZvQtR9lxvAzqsmw6jsIJ2T7tzBNpDfQd0x+9Zvon7fh55tR29X/pGcFdqLblagtkJl7luRdIA1TU3QQdQBs9SsgS0tlSuYzRYmDco1IcxzqQtcmH/TU6JwfXRlYpqvjZWQxRW7gsg8NJ8gbCdIV/MMja">
+<value="Encrypted:xI3OKMADTTuPlPyxbyQ2IRebUbOWAC64BOyBllkRjqtkRz689ovchntPvva8IC3eQ0BxEiDI4I1sMz376oQZXqsNJadBD0xZuyEOeHPBOG0NjFFhvCzVuRhdNmBg19JfojvUhNfmaNfqWbTd29r5oX8nuQJW7m+cDlRfni/BoZ3BgcLfkGJxpPV8Rs/GBg6L1EgVOPxCLaM+dVBMxWN1ZWPqiCp6XaUH">
 >
 >
 %str%>
@@ -323,8 +323,6 @@
 <publishDifferentThanConfiguration=.F.>
 <version="2.0.0.0">
 <hashAlgorithm="SHA1">
-<providerClassParameters<[1]>
->
 >
 <role<type="SameAsMembershipProvider">
 <connectionString="">
@@ -339,8 +337,6 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
-<providerClassParameters<[1]>
->
 >
 <sessionState<type="LocalStateServer">
 <connectionString="">
@@ -355,8 +351,6 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
-<providerClassParameters<[1]>
->
 >
 <profile<type="None">
 <connectionString="">
@@ -371,8 +365,6 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
-<providerClassParameters<[1]>
->
 >
 >
 <remoteErrorDetailShow=.F.>
@@ -403,7 +395,6 @@
 <dataSource="">
 <membershipProviderClass="">
 >
-<websocket>
 <activeDirectory<name="">
 <serverName="">
 <userId="">
@@ -413,4 +404,3 @@
 >
 >
 >
-<activeDirectory>
