@@ -1923,4 +1923,1444 @@
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_15448\temphttp___nubisonlab_cl___1580\transbank">
 <timestamp=CTODT('17/01/2018 02:21:34 44 pm')>
 >
+<[386]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:49:56 60 pm')>
+>
+<[387]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:49:56 60 pm')>
+>
+<[388]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:49:56 61 pm')>
+>
+<[389]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:49:56 61 pm')>
+>
+<[390]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:49:57 16 pm')>
+>
+<[391]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:32 39 pm')>
+>
+<[392]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:32 85 pm')>
+>
+<[393]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 25 pm')>
+>
+<[394]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 63 pm')>
+>
+<[395]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 66 pm')>
+>
+<[396]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 67 pm')>
+>
+<[397]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 67 pm')>
+>
+<[398]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 69 pm')>
+>
+<[399]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-coins-50b.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 71 pm')>
+>
+<[400]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-delivered-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 72 pm')>
+>
+<[401]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 73 pm')>
+>
+<[402]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 76 pm')>
+>
+<[403]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 77 pm')>
+>
+<[404]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('18/01/2018 04:42:33 78 pm')>
+>
+<[405]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 04:49:55 91 pm')>
+>
+<[406]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 04:49:55 91 pm')>
+>
+<[407]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 04:49:55 91 pm')>
+>
+<[408]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 04:49:55 91 pm')>
+>
+<[409]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:47:46 60 pm')>
+>
+<[410]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:04 01 pm')>
+>
+<[411]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 04:49:56 52 pm')>
+>
+<[412]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\shell.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:04 27 pm')>
+>
+<[413]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:04 30 pm')>
+>
+<[414]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:04 31 pm')>
+>
+<[415]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:04 34 pm')>
+>
+<[416]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:05 66 pm')>
+>
+<[417]<type="css">
+<name="alpha">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:19 90 pm')>
+>
+<[418]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 63 pm')>
+>
+<[419]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 77 pm')>
+>
+<[420]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 79 pm')>
+>
+<[421]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 80 pm')>
+>
+<[422]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 80 pm')>
+>
+<[423]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 87 pm')>
+>
+<[424]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 90 pm')>
+>
+<[425]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 92 pm')>
+>
+<[426]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 95 pm')>
+>
+<[427]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:20 96 pm')>
+>
+<[428]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 00 pm')>
+>
+<[429]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 03 pm')>
+>
+<[430]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 07 pm')>
+>
+<[431]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 09 pm')>
+>
+<[432]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 12 pm')>
+>
+<[433]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 14 pm')>
+>
+<[434]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 24 pm')>
+>
+<[435]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 27 pm')>
+>
+<[436]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 29 pm')>
+>
+<[437]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 31 pm')>
+>
+<[438]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 35 pm')>
+>
+<[439]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 38 pm')>
+>
+<[440]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 43 pm')>
+>
+<[441]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 43 pm')>
+>
+<[442]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-coins-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 44 pm')>
+>
+<[443]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-coins-50b.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 44 pm')>
+>
+<[444]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-communication-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 45 pm')>
+>
+<[445]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-delivered-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 46 pm')>
+>
+<[446]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-dollar-account-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 47 pm')>
+>
+<[447]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 48 pm')>
+>
+<[448]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 49 pm')>
+>
+<[449]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 50 pm')>
+>
+<[450]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 51 pm')>
+>
+<[451]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 51 pm')>
+>
+<[452]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:15:21 52 pm')>
+>
+<[453]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:20:42 63 pm')>
+>
+<[454]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-pos-terminal-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:28:37 49 pm')>
+>
+<[455]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:30:49 09 pm')>
+>
+<[456]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:35:33 72 pm')>
+>
+<[457]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11704\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('19/01/2018 12:49:42 64 pm')>
+>
+<[458]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:14:38 96 pm')>
+>
+<[459]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:14:38 96 pm')>
+>
+<[460]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:14:38 97 pm')>
+>
+<[461]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:14:38 97 pm')>
+>
+<[462]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:14:39 64 pm')>
+>
+<[463]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:46 33 am')>
+>
+<[464]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:47 47 am')>
+>
+<[465]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:48 48 am')>
+>
+<[466]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 18 am')>
+>
+<[467]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 35 am')>
+>
+<[468]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 36 am')>
+>
+<[469]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 38 am')>
+>
+<[470]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 41 am')>
+>
+<[471]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 42 am')>
+>
+<[472]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 45 am')>
+>
+<[473]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 49 am')>
+>
+<[474]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 52 am')>
+>
+<[475]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 54 am')>
+>
+<[476]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_9124\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 09:56:49 56 am')>
+>
+<[477]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:18:07 09 pm')>
+>
+<[478]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:18:07 09 pm')>
+>
+<[479]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:18:07 09 pm')>
+>
+<[480]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:18:07 09 pm')>
+>
+<[481]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:26 30 pm')>
+>
+<[482]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:26 32 pm')>
+>
+<[483]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:26 90 pm')>
+>
+<[484]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 29 pm')>
+>
+<[485]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 50 pm')>
+>
+<[486]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 53 pm')>
+>
+<[487]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 54 pm')>
+>
+<[488]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 54 pm')>
+>
+<[489]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 55 pm')>
+>
+<[490]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 55 pm')>
+>
+<[491]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 56 pm')>
+>
+<[492]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 56 pm')>
+>
+<[493]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 56 pm')>
+>
+<[494]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 57 pm')>
+>
+<[495]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_16448\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 02:17:27 57 pm')>
+>
+<[496]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:36 55 pm')>
+>
+<[497]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:36 70 pm')>
+>
+<[498]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:36 92 pm')>
+>
+<[499]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:37 00 pm')>
+>
+<[500]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:37 66 pm')>
+>
+<[501]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:37 68 pm')>
+>
+<[502]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:38 29 pm')>
+>
+<[503]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:38 84 pm')>
+>
+<[504]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 11 pm')>
+>
+<[505]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 14 pm')>
+>
+<[506]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 16 pm')>
+>
+<[507]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 16 pm')>
+>
+<[508]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 17 pm')>
+>
+<[509]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 19 pm')>
+>
+<[510]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 19 pm')>
+>
+<[511]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 20 pm')>
+>
+<[512]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 21 pm')>
+>
+<[513]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 21 pm')>
+>
+<[514]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8600\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 03:28:39 22 pm')>
+>
+<[515]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:05:31 10 pm')>
+>
+<[516]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:05:31 10 pm')>
+>
+<[517]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:05:31 10 pm')>
+>
+<[518]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:05:31 10 pm')>
+>
+<[519]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:05:31 92 pm')>
+>
+<[520]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:07 76 pm')>
+>
+<[521]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:08 24 pm')>
+>
+<[522]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:08 63 pm')>
+>
+<[523]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 09 pm')>
+>
+<[524]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 12 pm')>
+>
+<[525]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 13 pm')>
+>
+<[526]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 13 pm')>
+>
+<[527]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 14 pm')>
+>
+<[528]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 14 pm')>
+>
+<[529]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 15 pm')>
+>
+<[530]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 15 pm')>
+>
+<[531]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 16 pm')>
+>
+<[532]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 16 pm')>
+>
+<[533]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_3644\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 04:53:09 16 pm')>
+>
+<[534]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:55 82 pm')>
+>
+<[535]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:56 08 pm')>
+>
+<[536]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:56 27 pm')>
+>
+<[537]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:56 47 pm')>
+>
+<[538]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:57 24 pm')>
+>
+<[539]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:57 25 pm')>
+>
+<[540]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:57 50 pm')>
+>
+<[541]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:57 86 pm')>
+>
+<[542]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 22 pm')>
+>
+<[543]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 24 pm')>
+>
+<[544]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 26 pm')>
+>
+<[545]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 26 pm')>
+>
+<[546]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 27 pm')>
+>
+<[547]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 27 pm')>
+>
+<[548]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 27 pm')>
+>
+<[549]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 28 pm')>
+>
+<[550]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 28 pm')>
+>
+<[551]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 28 pm')>
+>
+<[552]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6992\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 05:09:58 29 pm')>
+>
+<[553]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:02 31 pm')>
+>
+<[554]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:02 46 pm')>
+>
+<[555]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:02 57 pm')>
+>
+<[556]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:02 66 pm')>
+>
+<[557]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 12 pm')>
+>
+<[558]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 35 pm')>
+>
+<[559]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 59 pm')>
+>
+<[560]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\mainbackup.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 83 pm')>
+>
+<[561]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\shell.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 85 pm')>
+>
+<[562]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 85 pm')>
+>
+<[563]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 85 pm')>
+>
+<[564]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:03 86 pm')>
+>
+<[565]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:04 08 pm')>
+>
+<[566]<type="css">
+<name="alpha">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 46 pm')>
+>
+<[567]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 67 pm')>
+>
+<[568]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 79 pm')>
+>
+<[569]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 80 pm')>
+>
+<[570]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 80 pm')>
+>
+<[571]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 80 pm')>
+>
+<[572]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 81 pm')>
+>
+<[573]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 81 pm')>
+>
+<[574]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 81 pm')>
+>
+<[575]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 82 pm')>
+>
+<[576]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 82 pm')>
+>
+<[577]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 82 pm')>
+>
+<[578]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 83 pm')>
+>
+<[579]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 83 pm')>
+>
+<[580]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 83 pm')>
+>
+<[581]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 84 pm')>
+>
+<[582]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 84 pm')>
+>
+<[583]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 84 pm')>
+>
+<[584]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 85 pm')>
+>
+<[585]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 85 pm')>
+>
+<[586]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 86 pm')>
+>
+<[587]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 86 pm')>
+>
+<[588]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 86 pm')>
+>
+<[589]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 87 pm')>
+>
+<[590]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 87 pm')>
+>
+<[591]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 87 pm')>
+>
+<[592]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 88 pm')>
+>
+<[593]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-coins-50b.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 88 pm')>
+>
+<[594]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-communication-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 88 pm')>
+>
+<[595]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-delivered-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 89 pm')>
+>
+<[596]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 89 pm')>
+>
+<[597]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 90 pm')>
+>
+<[598]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-pos-terminal-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 90 pm')>
+>
+<[599]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 93 pm')>
+>
+<[600]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 93 pm')>
+>
+<[601]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 94 pm')>
+>
+<[602]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 94 pm')>
+>
+<[603]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_6292\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('22/01/2018 06:26:05 94 pm')>
+>
+<[604]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 02:11:34 57 pm')>
+>
+<[605]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 02:11:34 57 pm')>
+>
+<[606]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 02:11:34 57 pm')>
+>
+<[607]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 02:11:34 57 pm')>
+>
+<[608]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 02:11:35 26 pm')>
+>
+<[609]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:19 19 pm')>
+>
+<[610]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:19 88 pm')>
+>
+<[611]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 27 pm')>
+>
+<[612]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 56 pm')>
+>
+<[613]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 60 pm')>
+>
+<[614]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 62 pm')>
+>
+<[615]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 62 pm')>
+>
+<[616]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 62 pm')>
+>
+<[617]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 63 pm')>
+>
+<[618]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 64 pm')>
+>
+<[619]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 65 pm')>
+>
+<[620]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 66 pm')>
+>
+<[621]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 66 pm')>
+>
+<[622]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_532\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('23/01/2018 12:17:20 66 pm')>
+>
+<[623]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:52 32 am')>
+>
+<[624]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:52 48 am')>
+>
+<[625]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:52 85 am')>
+>
+<[626]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:52 97 am')>
+>
+<[627]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:53 79 am')>
+>
+<[628]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 05 am')>
+>
+<[629]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\main.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 28 am')>
+>
+<[630]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\mainbackup.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 51 am')>
+>
+<[631]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\shell.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 53 am')>
+>
+<[632]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 55 am')>
+>
+<[633]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 56 am')>
+>
+<[634]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:54 57 am')>
+>
+<[635]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:24:55 47 am')>
+>
+<[636]<type="css">
+<name="alpha">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:05 67 am')>
+>
+<[637]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 46 am')>
+>
+<[638]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 60 am')>
+>
+<[639]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 61 am')>
+>
+<[640]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 62 am')>
+>
+<[641]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 62 am')>
+>
+<[642]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 70 am')>
+>
+<[643]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 71 am')>
+>
+<[644]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 73 am')>
+>
+<[645]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 74 am')>
+>
+<[646]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 75 am')>
+>
+<[647]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 78 am')>
+>
+<[648]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 83 am')>
+>
+<[649]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-bold.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 86 am')>
+>
+<[650]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 88 am')>
+>
+<[651]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-light.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 91 am')>
+>
+<[652]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:06 95 am')>
+>
+<[653]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-medium.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 02 am')>
+>
+<[654]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 04 am')>
+>
+<[655]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-regular.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 08 am')>
+>
+<[656]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 09 am')>
+>
+<[657]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\fonts\roboto\roboto-thin.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 11 am')>
+>
+<[658]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\icons8-fingerprint-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 11 am')>
+>
+<[659]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 15 am')>
+>
+<[660]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 18 am')>
+>
+<[661]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\favicon.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 19 am')>
+>
+<[662]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-check-40.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 22 am')>
+>
+<[663]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-coins-50b.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 25 am')>
+>
+<[664]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-communication-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 29 am')>
+>
+<[665]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-delivered-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 30 am')>
+>
+<[666]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 31 am')>
+>
+<[667]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 32 am')>
+>
+<[668]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-pos-terminal-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 36 am')>
+>
+<[669]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\icons8-wallet-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 38 am')>
+>
+<[670]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 39 am')>
+>
+<[671]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 40 am')>
+>
+<[672]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\img\logodemob.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 40 am')>
+>
+<[673]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo transbank\transbank.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_5572\temphttp___nubisonlab_cl___1580\transbank">
+<timestamp=CTODT('24/01/2018 11:25:07 40 am')>
+>
 >

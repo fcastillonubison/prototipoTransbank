@@ -1,13 +1,13 @@
 {
-	"_id": "2916250",
+	"_id": "2982480",
 	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Transbank\\transbank.WebProjects\\Default.WebProject\\img\\favicon.png",
 	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division equipos - color\\nubison.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
-	"_initialUxComponent": "shell",
-	"_componentLastUpdated": "07/12/2017 09:34:27 03 am",
+	"_initialUxComponent": "main",
+	"_componentLastUpdated": "23/01/2018 06:25:19 37 pm",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/transbank/",
-	"_additionalFiles": "",
+	"_additionalFiles": "img\\icons8-check-40.png\nimg\\icons8-wallet-50.png",
 	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
 	"_pw": "nEUmwR92tRwv6SDFKfexhg==",
 	"_token": "",
@@ -31,8 +31,11 @@
 	"buildTarget": "Phonegap Build",
 	"cliProjectFolder": "",
 	"_androidBuildFlag": true,
-	"_iOSBuildFlag": true,
+	"_iOSBuildFlag": false,
 	"_windowsBuildFlag": false,
 	"launchAppManager": true,
-	"_sqlitedbdefined": false
+	"_sqlitedbdefined": false,
+	"enableInstantUpdate": false,
+	"instantUpdateSettingsJSON": "{\n\t\"item1\": \"item1\",\n\t\"name\": \"\",\n\t\"patchLocation\": \"AlphaSoftware\",\n\t\"storageConnectionString\": \"\",\n\t\"baseURL\": \"\",\n\t\"displayMessageAfterUpdate\": false,\n\t\"message\": \"\",\n\t\"systemMessages\": \"Verbose\"\n}",
+	"_baseLineGuid": "f6ef2dbf596243548af784b197a30304"
 }

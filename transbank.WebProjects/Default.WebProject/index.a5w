@@ -9,7 +9,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 
-<title></title>
+<meta name="theme-color" content="#E20042">
+<meta name="msapplication-navbutton-color" content="#E20042">
+<meta name="apple-mobile-web-app-status-bar-style" content="#E20042">
+
+<title>Transbank demo</title>
+
+<link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+<link rel="icon" type="image/png" href="img/favicon.png" />
+<link rel="icon" type="image/gif" href="img/favicon.gif" />
 
 <%a5
 Delete tmpl_MAIN

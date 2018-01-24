@@ -323,6 +323,8 @@
 <publishDifferentThanConfiguration=.F.>
 <version="2.0.0.0">
 <hashAlgorithm="SHA1">
+<providerClassParameters<[1]>
+>
 >
 <role<type="SameAsMembershipProvider">
 <connectionString="">
@@ -337,6 +339,8 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
+<providerClassParameters<[1]>
+>
 >
 <sessionState<type="LocalStateServer">
 <connectionString="">
@@ -351,6 +355,8 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
+<providerClassParameters<[1]>
+>
 >
 <profile<type="None">
 <connectionString="">
@@ -365,10 +371,16 @@
 <publishDataSource="SQLServer">
 <publishDifferentThanConfiguration=.F.>
 <version="">
+<providerClassParameters<[1]>
+>
 >
 >
 <remoteErrorDetailShow=.F.>
 <enablePreload=.T.>
+<minidumpCleanupEnabled=.T.>
+<minidumpMaxFiles=5>
+<minidumpMaxStorageGB=10>
+<minidumpMaxAgeHours=24>
 >
 <rtClk<CheckSecurityAllowed=.F.>
 <CheckBeforePublish=.F.>
@@ -391,6 +403,7 @@
 <dataSource="">
 <membershipProviderClass="">
 >
+<websocket>
 <activeDirectory<name="">
 <serverName="">
 <userId="">

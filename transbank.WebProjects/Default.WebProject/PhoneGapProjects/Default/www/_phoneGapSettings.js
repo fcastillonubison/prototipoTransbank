@@ -41,7 +41,6 @@ function _phoneGapSettings() {
         "pgb-builder-version": "1"
     },
     "plugins": {
-        "cordova-plugin-camera": "npm",
         "cordova-plugin-media-capture": "npm",
         "cordova-plugin-file": "npm",
         "cordova-plugin-network-information": "npm",
@@ -61,7 +60,10 @@ function _phoneGapSettings() {
         "cordova-media-with-compression": "npm",
         "cordova-sqlite-ext": "npm",
         "cordova-plugin-statusbar": "npm",
-        "cordova-plugin-x-toast": "npm"
+        "cordova-plugin-x-toast": "npm",
+        "cordova-plugin-camera-with-exif": "npm",
+        "cordova-plugin-zip": "npm",
+        "cordova-plugin-flurryanalytics": "npm"
     }
 };
 }
