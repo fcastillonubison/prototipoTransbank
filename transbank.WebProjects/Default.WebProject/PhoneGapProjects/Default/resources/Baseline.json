@@ -3169,7 +3169,7 @@
 		"name": "\\img\\logoDEMOB.png"
 	},
 	{
-		"crc": 4294961183,
+		"crc": 4294904366,
 		"name": "\\javascript\\a5.js"
 	},
 	{
@@ -3182,11 +3182,11 @@
 	}],
 	"rootfiles": [
 	{
-		"crc": 4294911635,
+		"crc": 4294923527,
 		"name": "\\baseline.zip"
 	},
 	{
-		"crc": 4294946975,
+		"crc": 4294956485,
 		"name": "\\config.xml"
 	},
 	{
@@ -3198,7 +3198,7 @@
 		"name": "\\icons8-fingerprint-50.png"
 	},
 	{
-		"crc": 4294911039,
+		"crc": 4294955547,
 		"name": "\\index.html"
 	},
 	{
@@ -3218,19 +3218,14 @@
 		"name": "\\version.json"
 	},
 	{
-		"crc": 4294904724,
+		"crc": 4294959007,
 		"name": "\\_instantUpdateSettings.js"
 	},
 	{
-		"crc": 4294913014,
+		"crc": 4294924159,
 		"name": "\\_phoneGapSettings.js"
 	}],
 	"plugins": [
-	{
-		"name": "cordova-plugin-camera",
-		"source": "npm",
-		"version": "2.4.1"
-	},
 	{
 		"name": "cordova-plugin-media-capture",
 		"source": "npm",
@@ -3265,11 +3260,6 @@
 		"name": "phonegap-plugin-barcodescanner",
 		"source": "npm",
 		"version": "6.0.5"
-	},
-	{
-		"name": "cordova-plugin-android-fingerprint-auth",
-		"source": "npm",
-		"version": "1.4.0"
 	},
 	{
 		"name": "cordova-plugin-battery-status",
@@ -3340,5 +3330,10 @@
 		"name": "cordova-plugin-zip",
 		"source": "npm",
 		"version": "3.1.0"
+	},
+	{
+		"name": "cordova-plugin-google-analytics",
+		"source": "npm",
+		"version": "1.8.3"
 	}]
 }

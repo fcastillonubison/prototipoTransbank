@@ -19,6 +19,7 @@
 <link rel="icon" type="image/png" href="img/favicon.png" />
 <link rel="icon" type="image/gif" href="img/favicon.gif" />
 
+
 <%a5
 Delete tmpl_MAIN
 DIM tmpl_MAIN as P
@@ -47,8 +48,10 @@ x_MAIN = a5w_run_Component(tmpl_MAIN) 'SYSTEM GENERATED COMMENT - PLEASE DO NOT 
 <link rel="stylesheet" type="text/css" href="file:///C:/Program Files (x86)/a5V12/css/iOS7/style.css">
 <!--Alpha Five Temporary Code End -->
 
+
 </head>
 <body>
+
 
 <%a5 ?x_MAIN.Output.Body.Dialog2_HTML %>
 <%a5 ?a5dialogHelper_generateCORSHeaders() %>

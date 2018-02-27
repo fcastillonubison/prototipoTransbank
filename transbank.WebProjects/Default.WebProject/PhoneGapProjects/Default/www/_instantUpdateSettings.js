@@ -1,9 +1,9 @@
 function _instantUpdateSettings() {
 return {
-	"baseLineGUID": "0d5658cb26b74a1395c8c10a5e7646c2",
+	"baseLineGUID": "bf8358ab790647329cccb8eb26fd20cb",
 	"baseURL": "http://phonegapinstantupdate.s3.amazonaws.com/",
-	"displayMessageAfterUpdate": false,
-	"message": "",
+	"displayMessageAfterUpdate": true,
+	"message": "actualizado {version}",
 	"systemMessages": "Verbose"
 };
 }
